@@ -4,7 +4,6 @@
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%23C8BE25&center=true&vCenter=true&random=false&width=435&lines=Programador+Junior+Full+Stack+;Junior+Full+Stack+Developer" alt="Typing SVG" /></a>
   </p>
-  
   Programador <b>full stack</b> apasionado por el mundo de la programación, buscando ser <br> competente en el area demostrando mis ganas de aprender y
   de contribuir al desarrollo de <b>paginas</b> y <b>aplicaciones.</b><br><br>
 </div>
