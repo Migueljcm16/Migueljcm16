@@ -7,7 +7,6 @@
   Programador <b>full stack</b> apasionado por el mundo de la programación, buscando ser <br> competente en el area demostrando mis ganas de aprender y
   de contribuir al desarrollo de <b>paginas</b> y <b>aplicaciones.</b><br><br>
 </div>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Migueljcm16&show_icons=true&theme=dark&locale=en" alt="Migueljcm16" />
     <br><br>
