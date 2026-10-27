@@ -10,7 +10,3 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Migueljcm16&show_icons=true&theme=dark&layout=compact" alt="Migueljcm16" />
 </p>
-<br>
-<p align="center">
-  Si necesitas mi ayuda escribeme a mi gmail: <a href="mailto:31miguelop31@gmail.com"><b>31miguelop31@gmail.com</b></a>
-</p>
