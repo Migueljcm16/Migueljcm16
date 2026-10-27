@@ -8,8 +8,6 @@
   de contribuir al desarrollo de <b>paginas</b> y <b>aplicaciones.</b><br><br>
 </div>
 <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Migueljcm16&show_icons=true&theme=dark" alt="Migueljcm16" />
-    <br><br>
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Migueljcm16&show_icons=true&theme=dark" alt="Migueljcm16" />
 </p>
 <br>
